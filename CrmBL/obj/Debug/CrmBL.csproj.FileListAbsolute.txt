@@ -1,0 +1,13 @@
+C:\Csharp\CrmModel\CrmBL\bin\Debug\CrmBL.dll.config
+C:\Csharp\CrmModel\CrmBL\bin\Debug\CrmBL.dll
+C:\Csharp\CrmModel\CrmBL\bin\Debug\CrmBL.pdb
+C:\Csharp\CrmModel\CrmBL\bin\Debug\EntityFramework.dll
+C:\Csharp\CrmModel\CrmBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Csharp\CrmModel\CrmBL\bin\Debug\EntityFramework.xml
+C:\Csharp\CrmModel\CrmBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Csharp\CrmModel\CrmBL\obj\Debug\CrmBL.csprojAssemblyReference.cache
+C:\Csharp\CrmModel\CrmBL\obj\Debug\CrmBL.csproj.CopyComplete
+C:\Csharp\CrmModel\CrmBL\obj\Debug\CrmBL.dll
+C:\Csharp\CrmModel\CrmBL\obj\Debug\CrmBL.pdb
+C:\Csharp\CrmModel\CrmBL\obj\Debug\CrmBL.Migrations.AddCompanyMigration.resources
+C:\Csharp\CrmModel\CrmBL\obj\Debug\CrmBL.csproj.GenerateResource.cache
